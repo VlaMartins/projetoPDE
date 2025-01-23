@@ -4,6 +4,8 @@
 }
 
 body{
-  font-size: 18px;
+  font-size: 16px;
   background-color: #ded0a5;
+  line-height: 1.5;
+  padding: 0px 10px 0px 20px;
 }
