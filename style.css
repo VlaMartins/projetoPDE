@@ -16,3 +16,7 @@ img{
   display: flex;
   border-radius: 5px;
 }
+
+p{
+  font-size: 22px;
+}
